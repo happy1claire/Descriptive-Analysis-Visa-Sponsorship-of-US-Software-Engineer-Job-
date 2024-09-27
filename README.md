@@ -5,7 +5,7 @@ I normalized the salary columns imputed missing values and stored them in the "y
 Then I visualized the data for easy understanding. 
 ## About the Dataset
 The dataset is the Software engineer job ads collected in July 2021. 
-## Conclusion
+## Conclusion (See visualization in Descriptive Analysis of Visa Sponsorship for US Software Engineer Job.ipynb)
 1. The salary distribution between jobs with or without sponsorship is similar.
 2. Remote job has the highest amounts of visa sponsorship, while jobs in California has the highest proportion.
 3. Software engineer, machine learning engineer, and DevOP are highly demanded among jobs with sponsorship. Furthermore, the senior software engineer is also in high demand.
